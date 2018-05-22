@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://nj01ct01.baidupcs.com/file/93cca61aca269aaaebdacb3bcd7dff06?bkt=p3-140093cca61aca269aaaebdacb3bcd7dff06eb417b560000000076d7&amp;fid=3260040600-250528-825267626052509&amp;time=1526969610&amp;sign=FDTAXGERLQBHSK-DCb740ccc5511e5e8fedcff06b081203-I41BzZGaqIESIuCA712xeXbMo%2FQ%3D&amp;to=63&amp;size=30423&amp;sta_dx=30423&amp;sta_cs=0&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH%2CYangquan%2CAnywhere%2C%2Cshanghai%2Cct&amp;vuk=3260040600&amp;iv=0&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=140093cca61aca269aaaebdacb3bcd7dff06eb417b560000000076d7&amp;sl=76480590&amp;expires=8h&amp;rt=sh&amp;r=688381541&amp;mlogid=3283934466890867810&amp;vbdid=3355923750&amp;fin=TEST.ipa&amp;rtype=1&amp;dp-logid=3283934466890867810&amp;dp-callid=0.1.1&amp;hps=1&amp;tsl=80&amp;csl=80&amp;csign=GH0ImVmbCo2Z1d%2FGAlcWbdOMs%2B8%3D&amp;so=0&amp;ut=6&amp;uter=4&amp;serv=0&amp;uc=1312949112&amp;ic=903143985&amp;ti=2dcba46af30d56b215f1e4007cc1661cc94d9edee643796c&amp;by=themis</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/JonPing/TEST/master/image.57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/JonPing/TEST/master/image.512x512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.sungoin.sunke</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>TEST</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
